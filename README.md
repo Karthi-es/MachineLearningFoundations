@@ -8,3 +8,6 @@ Data preprocessing steps in basic ML procedure.
 4. Encoding categorical varibales using OneHotEncoder
 5. Split the variables into train set and test set
 6. Performing feature scaling to the train dataset
+
+#Dataset details.
+Since the dataset used for the practice are from my course and small, I am directly uploading the dataset in my repo
